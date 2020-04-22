@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "Removedor de Espaços"
+	},
+	"appBetaName": {
+		"message": "Removedor de Espaços"
+	},
+	"appDescription": {
+		"message": "Remova os espaços de um link e o acesse em dois cliques!"
+	},
+	"contextmenu": {
+		"message": "Acessar link sem espaços..."
+	}
+}
